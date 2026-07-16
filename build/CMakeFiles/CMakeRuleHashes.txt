@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+ed453527540ec115847efc8e75e45cbe CMakeFiles/RPG_Game_autogen
+65006b85e25f328b99dc088ccc63baa5 RPG_Game_autogen/timestamp
